@@ -1,0 +1,6 @@
+{
+  "name": "Konstanta HR",
+  "description": "A high-fidelity recruitment landing page for Konstanta Recruiting Agency linked to a real-time tracking Admin CRM Dashboard for managing candidate job applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
